@@ -1876,7 +1876,7 @@
             </zone>
             <zone h='91987' id='82' param='horz' type-v2='layout-flow' w='99034' x='483' y='7135'>
               <zone h='91987' id='6' type-v2='layout-basic' w='99034' x='483' y='7135'>
-                <zone h='46005' id='9' name='Average Energy Consumed for Each Location' w='24740' x='483' y='53117'>
+                <zone h='46005' id='9' name='Average Energy Consumed for Each Location' w='24739' x='483' y='53117'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1884,7 +1884,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='45982' id='35' is-scaled='1' param='C:/College PPTs/5th SEM/INT233/Project/images 2.jpg' type-v2='bitmap' w='24738' x='483' y='7135'>
+                <zone h='45982' id='35' is-scaled='1' param='C:/College PPTs/5th SEM/INT233/Project/image.jpg' type-v2='bitmap' w='24737' x='483' y='7135'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1892,7 +1892,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='13830' id='70' name='Measure Values' show-title='false' w='49531' x='49986' y='7135'>
+                <zone h='13830' id='70' name='Measure Values' show-title='false' w='49532' x='49985' y='7135'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1900,7 +1900,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='45982' id='72' name='Average Vehicle Age For Vehicle Model' w='24765' x='25221' y='7135'>
+                <zone h='45982' id='72' name='Average Vehicle Age For Vehicle Model' w='24765' x='25220' y='7135'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1908,7 +1908,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='46005' id='76' name='Total Distance Travelled by Each Vehicle Model' w='24763' x='25223' y='53117'>
+                <zone h='46005' id='76' name='Total Distance Travelled by Each Vehicle Model' w='24763' x='25222' y='53117'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1916,7 +1916,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='46005' id='80' name='Comparsion on Charging Duration and Charging Rate ' w='49531' x='49986' y='53117'>
+                <zone h='46005' id='80' name='Comparsion on Charging Duration and Charging Rate ' w='49532' x='49985' y='53117'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1924,7 +1924,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='32152' id='85' name='Charging Cost For Each Location' w='49531' x='49986' y='20965'>
+                <zone h='32152' id='85' name='Charging Cost For Each Location' w='49532' x='49985' y='20965'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1954,8 +1954,8 @@
           </layout-options>
           <size maxheight='1900' minheight='1900' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='116' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98244' id='115' param='vert' type-v2='layout-flow' w='99034' x='483' y='878'>
+            <zone h='100000' id='119' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98244' id='118' param='vert' type-v2='layout-flow' w='99034' x='483' y='878'>
                 <zone h='6257' id='100' type-v2='title' w='99034' x='483' y='878'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1965,7 +1965,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='45982' id='35' is-fixed='true' is-scaled='1' param='C:/College PPTs/5th SEM/INT233/Project/images 2.jpg' type-v2='bitmap' w='24738' x='483' y='7135'>
+                <zone fixed-size='280' h='45982' id='35' is-fixed='true' is-scaled='1' param='C:/College PPTs/5th SEM/INT233/Project/image.jpg' type-v2='bitmap' w='24737' x='483' y='7135'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1974,7 +1974,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='45982' id='72' is-fixed='true' name='Average Vehicle Age For Vehicle Model' w='24765' x='25221' y='7135'>
+                <zone fixed-size='280' h='45982' id='72' is-fixed='true' name='Average Vehicle Age For Vehicle Model' w='24765' x='25220' y='7135'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1983,7 +1983,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='103' h='13830' id='70' is-fixed='true' name='Measure Values' show-title='false' w='49531' x='49986' y='7135'>
+                <zone fixed-size='103' h='13830' id='70' is-fixed='true' name='Measure Values' show-title='false' w='49532' x='49985' y='7135'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1992,7 +1992,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='249' h='32152' id='85' is-fixed='true' name='Charging Cost For Each Location' w='49531' x='49986' y='20965'>
+                <zone fixed-size='249' h='32152' id='85' is-fixed='true' name='Charging Cost For Each Location' w='49532' x='49985' y='20965'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2001,7 +2001,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46005' id='9' is-fixed='true' name='Average Energy Consumed for Each Location' w='24740' x='483' y='53117'>
+                <zone fixed-size='280' h='46005' id='9' is-fixed='true' name='Average Energy Consumed for Each Location' w='24739' x='483' y='53117'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2010,7 +2010,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46005' id='76' is-fixed='true' name='Total Distance Travelled by Each Vehicle Model' w='24763' x='25223' y='53117'>
+                <zone fixed-size='280' h='46005' id='76' is-fixed='true' name='Total Distance Travelled by Each Vehicle Model' w='24763' x='25222' y='53117'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2019,7 +2019,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46005' id='80' is-fixed='true' name='Comparsion on Charging Duration and Charging Rate ' w='49531' x='49986' y='53117'>
+                <zone fixed-size='280' h='46005' id='80' is-fixed='true' name='Comparsion on Charging Duration and Charging Rate ' w='49532' x='49985' y='53117'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2473,7 +2473,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='100' />
+      <active id='35' />
       <simple-id uuid='{12EF731B-F360-48DA-A2EF-E37A0DF1370D}' />
     </window>
     <window class='dashboard' name='Story 1'>
